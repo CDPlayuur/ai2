@@ -1,40 +1,326 @@
-id,Sentence,type,englishWords,tagalogWords,taglishWords,taglishPhrases,otherTokens,intent,topic,response
-1,Tawang tawa ako sa comments section,TAGLISH,"comments, section","tawang, tawa, ako, sa",,comment section,,praise,video,"Salamat sa panonood!, Thanks for watching!"
-2,Kahit yung reporter pinipigilan yung tawa,TAGLISH,reporter,"kahit, yung, pinipigilan, tawa",,reported,,humor,video,"Right? 😂, Haha!, Oums nakakatawa talaga xD"
-3,May topic nanaman si Ryan Rems next koolpal episode hahahaaha,TAGLISH,"topic, next, episode","may, nanaman, si",,may topic,"ryan, rems, koolpal, hahahaaha",humor,video,Sana nga may bago agad! 😂|Laging may topic si Ryan haha|Abangan natin yan!
-4,Title ang huling pukpok,TAGLISH,title,"ang, huling, pukpok",,title,,humor,video,"Panalo talaga yung title 😂|Sakto lang yan HAHA|Perfect title, diba?"
-5,"PINANOOD YUNG VIDEO, INULIT PA, PUMUNTA SA COMMENT SECTION, BINASA YUNG MGA NAG COMMENT, BINASA MO TO, PAG TAMA AKO HAHA REACT MO",TAGLISH,"video, comment, section, react","pinanood, yung, inulit, pa, pumunta, sa, binasa, mga, mo, to, pag, tama, ako",nag-comment,"yung video, comment section, nag comment, react mo",haha,praise,video,"Grabe ang dedication, salamat sa panonood! 😂|Nabasa ko nga to haha|Thank you sa suporta!"
-6,Sabi june daw ilalabas sa netflix july na talaga ngayon,TAGLISH,"june, july","sabi, daw, ilalabas, sa, na, talaga, ngayon",,,netflix,info_share,video,"Opo, na-move po sa July ang release|July na po talaga, abangan natin|Salamat sa update!"
-7,"Hanggang sa huling take nakakatawa pa den , 🤣 ilang beses ko na to napanood tawang Tawa pa den ako sakit ng tiyan ko 😂",TAGLISH,take,"hanggang, sa, huling, nakakatawa, pa, den, ilang, beses, ko, na, to, napanood, tawang, tawa, ako, sakit, ng, tiyan",,huling take,"🤣, 😂",praise,video,"Salamat sa paulit-ulit na panonood! 🤣|Ingat sa tiyan ha haha|Ang saya naman, thank you po!"
-8,Ako nag practice sa rank kakampi ko nag sabi ng Ang aga pa my dark system na hahahaha,TAGLISH,"rank, my, dark, system","ako, sa, kakampi, ko, nag, sabi, ng, ang, aga, pa, na",nag-practice,nag practice,hahahaha,humor,gaming,"Classic rank experience 😂|Dark system is real HAHA|Laban lang, bawi next game!"
-9,"Yung nanay mong kinukulit mo sa vlog mo, sa una nakiki ride on lang siya, hanggang naubos na ang pasensya sa'yo.",TAGLISH,"vlog, on","yung, nanay, mong, kinukulit, mo, sa, una, lang, siya, hanggang, naubos, na, ang, pasensya, sa'yo",nakiki-ride,"nakiki ride, sa vlog",,humor,video,Relatable sa mga nanay haha|Naku pasensya na kay mama 😂|May limit din talaga si nanay!
-10,"Waiting na lang sa Netflix, hays, di makanood ng cine.",TAGLISH,waiting,"na, lang, sa, di, makanood, ng, cine",,waiting na,"netflix, hays",complaint,video,"Abangan po natin sa Netflix!|Sayang, pero malapit na po sa streaming|Soon na po, stay tuned!"
-11,Yung nag rereport kayo tapos puro tawa kaya hindi natapos-tapos ang report niyo.,TAGLISH,report,"yung, kayo, tapos, puro, tawa, kaya, hindi, natapos-tapos, ang, niyo",nag-rereport,rereport,,humor,school,Super relatable sa reporting 😂|Totoo yan HAHA|Laging ganyan pag group report eh!
-12,hm would it be if not globe locked? saw someone selling one din kasi pero not globe locked at 128gb,TAGLISH,"would, it, be, if, not, locked, saw, someone, selling, one","din, kasi, pero, at",,selling one din kasi,"hm, globe, 128gb",question,marketplace,"Factory unlocked po ito, hindi globe locked|Open line po siya, 128GB|Hindi po locked, kahit anong sim pwede"
-13,"I'm not really selling it (kaya di sya posted), it's just that, if may interested tapos nag sabi ng presyo and gusto ko yung price, y not. Iniisip ko rin kasi gamitin yung mobo at ram, the cpu, minimum 9800x3d ang gagamitin ko so i'll likely get rid of 7800x3d din",TAGLISH,"i'm, not, really, selling, it, posted, it's, just, that, if, interested, and, price, y, the, mobo, ram, cpu, minimum, so, i'll, likely, get, rid, of","kaya, di, sya, may, tapos, nag, sabi, ng, presyo, gusto, ko, yung, iniisip, rin, kasi, gamitin, at, ang, gagamitin, din",,kaya di sya posted,"9800x3d, 7800x3d",selling,marketplace,"Noted po! Message mo lang kung may offer|Sige po, open pa rin for offers|Salamat sa info, abangan ko ang price"
-14,"Sinasabi nila ang online game ra daw ang masama sa mga bata, Pero ito hindi e na action at ibinan, they always said the children will be safe after they ban the game after the ban the kid always hide from there room and close the door tight so no one will get in, Pero sa aking napanood ngayon ito ay masama sa mga bata dapat iban sana nila ito ang platform, hindi pa rin nila na solve ang issue sa flood control, Pero sa mga oline games na solve na agad pangbihira hindi ito tama sana kung maban ang online game na masasama sa mga bata dapat din nila iban ito.",TAGLISH,"online, game, they, always, said, the, children, will, be, safe, after, ban, kid, hide, from, there, room, and, close, door, tight, so, no, one, get, in, platform, issue, flood, control, oline, games","sinasabi, nila, ang, ra, daw, masama, sa, mga, bata, pero, ito, hindi, e, at, aking, napanood, ngayon, ay, dapat, sana, pa, rin, na, agad, pangbihira, tama, kung, masasama, din","na-action, ibinan, iban, na-solve, maban","na action, i ban, na solve, ma ban",,opinion,news,Valid po ang point niyo|Salamat sa pagbabahagi ng opinyon|Marami pong sang-ayon diyan
-15,"I would prob keep it for now, it's not that delusional ako, nasa fair price bracket pa rin sya",TAGLISH,"i, would, prob, keep, it, for, now, it's, not, that, delusional, fair, price, bracket","ako, nasa, pa, rin, sya",,"delusional ako, nasa fair price bracket pa rin sya",,opinion,marketplace,"Fair price naman po talaga yan|Sige po, keep mo muna|Reasonable po ang asking mo"
-16,Rfs: Bumili ng Samsung Fold 8 and was gonna use this as a secondary phone,TAGLISH,"and, was, gonna, use, this, as, a, secondary, phone","bumili, ng",,,"rfs, samsung, fold, 8",selling,marketplace,Noted po sa RFS|Magkano po ang asking price?|Salamat sa details!
-17,"ahhh i use ebay din for auctions hahaha, just want to buy games din dito if anyone wants to sell for cheap",TAGLISH,"i, use, for, auctions, just, want, to, buy, games, if, anyone, wants, sell, cheap","din, dito",,,"ahhh, ebay, hahaha",selling,marketplace,"Post mo lang po dito kung ano hanap mo|Marami pong nagbebenta ng games dito|Sige po, abangan mo ang listings"
-18,"Simple lang un. Those were different times. Ngayon, may mga radicals at extremists na target talaga ang mga bata. Sabayan pa ng super easy access through phones at pabayang magulang.",TAGLISH,"simple, those, were, different, times, radicals, extremists, target, super, easy, access, through, phones","lang, un, ngayon, may, mga, at, na, talaga, ang, bata, sabayan, pa, ng, pabayang, magulang",,,,opinion,news,"Tama po kayo, iba na talaga ngayon|Salamat sa insight niyo|Ingat lagi, mahirap na po ngayon"
-19,"Ah good memories indeed. Even though I only witnessed this noong last years of schooling ko na which is college. Sumama ako sa mga katropa ko noon and just watched them trash talk each other. Just a group of friends separating themselves in two teams tapos ayun nakakatawa pa nga trash talk eh, pati sila natatawa.",TAGLISH,"good, memories, indeed, even, though, i, only, witnessed, this, last, years, of, schooling, which, is, college, and, just, watched, them, trash, talk, each, other, a, group, friends, separating, themselves, in, two, teams","noong, ko, na, sumama, ako, sa, mga, katropa, noon, tapos, ayun, nakakatawa, pa, nga, eh, pati, sila, natatawa",,,ah,opinion,social,Grabe ang memories 😄|Salamat sa pag-share ng kwento mo!|Iba talaga ang barkada noon
-20,I love seeing this kind of stuff kasi it inspires me to take better care of my stuff,TAGLISH,"i, love, seeing, this, kind, of, stuff, it, inspires, me, to, take, better, care, my",kasi,,,,praise,social,Salamat po! Ganyan din ang goal namin|Appreciate po ang support!|Ingatan mo rin ang gamit mo haha
-21,Na-meet ko sya sa PS group sa FB. Nag-comment ako sa iba nya posts and she seems cool naman. I don't remember kung na-add ko na sya sa PS friends ko or baka hindi pa nya ako na-accept. haha.,TAGLISH,"group, posts, and, she, seems, cool, i, don't, remember, friends, or","ko, sya, sa, ako, iba, nya, naman, kung, na, baka, hindi, pa","na-meet, nag-comment, na-add, na-accept",,"ps, fb, haha",info_share,social,"Ang saya naman po niyan!|Salamat sa pag-share|Nice, ang dali lang pala makahanap ng kaibigan sa groups"
-22,Totoo po ba yan? Anong reason po?,TAGLISH,reason,"totoo, po, ba, yan, anong",,anong reason,,question,school,"Opo, totoo po. Nasa announcement po ang detalye|Confirmed po, check niyo po ang official post|Opo, naka-post na po ang reason"
-23,tambak na po mga activity namin na need ipasa😔💔,TAGLISH,"activity, need","tambak, na, po, mga, namin, ipasa",,"na need ipasa, mga activity","😔, 💔",complaint,school,"Kaya niyo po yan! Isa-isa lang|Naku, laban lang po. Good luck sa deadlines!|Magpahinga rin po kayo paminsan-minsan"
-24,Totoo po ba ito bakanaman po fake news po,TAGLISH,"fake, news","totoo, po, ba, ito, bakanaman",,fake news,,question,school,"Totoo po ito, hindi po fake news|Legit po, dito lang po kayo mag-check sa official page|Opo, confirmed po namin"
-25,Congratulations nalang sa inyo,TAGLISH,congratulations,"nalang, sa, inyo",,Congratulations nalang,,praise,general,"Maraming salamat po!|Thank you po sa greetings!|Salamat, appreciate po namin!"
-26,wala po ba announcement ngayon,TAGLISH,announcement,"wala, po, ba, ngayon",,announcement ngayon,,question,school,"Wala pong bagong announcement ngayon|Wala pa po, mag-a-update kami dito agad|Dito lang po kayo mag-abang sa page"
-27,next time naman agahan nyo ang suspension nasa school na bago kayo magpspauwi,TAGLISH,"next, time, suspension, school","naman, agahan, nyo, ang, nasa, na, bago, kayo, magpspauwi",,nasa school,,complaint,school,"Pasensya na po sa abala|Noted po, aagahan po namin next time|Salamat sa feedback, ipaparating po namin"
-28,Ang cute at ang gwapo ng pang-apat na lalaki na naka cosplay,TAGLISH,cute,"ang, at, gwapo, ng, pang-apat, na, lalaki",naka-cosplay,ang cute,,praise,gaming,Salamat po sa compliment! 😄|Ipaparating po namin sa kanya haha|Thank you po!
-29,Don't worry. Meron ka naman madadating or will see a flood and they said its just a normal life in the Philippines 😃.,TAGLISH,"don't, worry, or, will, see, a, flood, and, they, said, its, just, normal, life, in, the","meron, ka, naman, madadating",,madadating or will see a flood,"philippines, 😃",opinion,news,"Sana nga po maging okay na|Totoo po, nakakapagod na ang baha|Salamat sa pag-share ng saloobin niyo"
-30,"Super cute ng mukha ni Aldous, te super madaldal talaga, palasagot sayo",TAGLISH,"super, cute","ng, mukha, ni, te, madaldal, talaga, palasagot, sayo",,"super cute ng mukha, te super madaldal",aldous,praise,gaming,Cute talaga si Aldous 😄|Madaldal nga po siya haha|Salamat po sa panonood!
-31,"Kamukha mo yung sa bagong skin ni dyrroth pati yung gupit, what a nice",TAGLISH,"skin, what, a, nice","kamukha, mo, yung, sa, bagong, ni, pati, gupit",,bagong skin,dyrroth,praise,gaming,Ayos yung bagong skin diba!|Salamat po! 😄|Nice catch sa gupit haha
-32,hello po,TAGLISH,hello,po,,,,greeting,general,Hello po! Ano pong maitutulong namin?|Hi! Kumusta po?
-33,hi admin,TAGLISH,"hi, admin",,,,,greeting,general,Hi po! Pwede po kayong magtanong dito|Hello! Ano po kailangan niyo?
-34,good morning po,TAGLISH,"good, morning",po,,,,greeting,general,Good morning po!|Magandang umaga po sa inyo!
-35,salamat po,TAGLISH,,"salamat, po",,,,thanks,general,Walang anuman po!|Salamat din po sa inyo!
-36,thank you admin,TAGLISH,"thank, you, admin",,,,,thanks,general,"You're welcome po!|Walang anuman, happy to help!"
-37,bye po,TAGLISH,bye,po,,,,goodbye,general,"Ingat po kayo!|Bye po, balik kayo ulit!"
-38,sige po paalam,TAGLISH,,"sige, po, paalam",,,,goodbye,general,"Sige po, ingat!|Paalam po, salamat sa pagbisita!"
-39,sino ka,TAGLISH,,"sino, ka",,,,question,general,"Chatbot po ako ng page na ito|Bot po ako dito, ano pong tanong niyo?"
+comment_id,comment_text,intent_class,language,reply_template,annotator_id
+C001,How much,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C002,Fav,OTHER_OR_NO_REPLY,English,,A01
+C003,"Cut, color and brilliance at its best",OTHER_OR_NO_REPLY,English,,A01
+C004,Mgkano po ganyan,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C005,Di naman kayo magrereply,OTHER_OR_NO_REPLY,Filipino,,A01
+C006,"hm po yon maliit
+ano po ang setting niya 18k po b
+hm po",PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C007,Pa mine lolz!,PURCHASE_INTENT,Filipino,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C008,DREAMS ARE MEANT TO HAPPEN.,OTHER_OR_NO_REPLY,English,,A01
+C009,Sir open pa po ba ang Pasig branch nyo for overhaul?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C010,Boss locc nyo po,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C011,Needed ko po now,PURCHASE_INTENT,Filipino,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C012,idol wala bang meetup ito?,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C013,🆙,OTHER_OR_NO_REPLY,Unclear,,A01
+C014,Up,OTHER_OR_NO_REPLY,English,,A01
+C015,Pinuntahan ko yung main branch sa eastbank road pero kainan na lang wala na raw yung mga bike shop.,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C016,Saan na Po shop nyo,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C017,Loc,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C018,Saan na brand po ito,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C019,May branch ba kayo malapit sa Cainta Floodway at pakilapag naman po ng address,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C020,Nagrerepack po ba kayo ng shimano 105 pedals?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C021,Pm sent po,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C022,@[NAME] eto pare mas mura oh 450 lang all in na,OTHER_OR_NO_REPLY,Taglish,,A01
+C023,Magkano yung full wrap?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C024,HM po inabot total restoration. Meron din kasi ako vintage RB. Mukang klangan nadin restoration.,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C025,Magkano po Parepaint?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C026,hm magparepaint po?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C027,Anong size ng gulong nyan [SELLER],PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C028,Open po ba yung shop nyo sa 15th Avenue?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C029,Wow. How much total inabot diyan master? And specs nung mga nireplace na part?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C030,Meron ako,OTHER_OR_NO_REPLY,Filipino,,A01
+C031,Need ko na nga pa overhaul bike spa!,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C032,Hm po,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C033,Bat nung nagunta ako dyan di kayo nag papic sakin,OTHER_OR_NO_REPLY,Filipino,,A01
+C034,Nadaanan ko nga to. Tom n lang ako hehe,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C035,Sir kaya po regrease ng crimson hubs?,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C036,THANK YOU [NAME]! 12ispid na fatty ko...  5star sa mechanic 5star sa [SELLER]...,OTHER_OR_NO_REPLY,Taglish,,A01
+C037,Nakasimangot,OTHER_OR_NO_REPLY,Filipino,,A01
+C038,Nag reregrease b kyo boss,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C039,Boss till what time open???,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C040,Boss magkano overhaul at spa,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C041,Loc pls...?,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C042,Boss pa edit ko sana hubs? Gumagawa ba kayo?,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C043,Sa day off na boss's punta Ako Jan ☺️,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C044,Boss [NAME].. Salamat ulit.. 🙏☺️😎💪,OTHER_OR_NO_REPLY,Taglish,,A01
+C045,"Hm po pa.repack Ng bb at hubs po, TIA",PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C046,Magkano mag pa allign ng gulong?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C047,Uy si idol,OTHER_OR_NO_REPLY,Filipino,,A01
+C048,Lodi,OTHER_OR_NO_REPLY,Filipino,,A01
+C049,Fit ba itoh sa dahon folding bike?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C050,mgkano pa bikewash?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C051,Salamat [SELLER] ako po yung kasabayan nila sir na nagpabikespa 🙂 👍👌🏻,OTHER_OR_NO_REPLY,Taglish,,A01
+C052,Pati rin ba sa branch sa cubao? Sakoo ng promo na yan?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C053,Yon! Palit brakes na rin. Punta ako bukas!,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C054,kahit saang branch po ba yan? same sa cubao branch?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C055,Nabenta ko na UNG Isa Kung bike hahahaha. Andun UNG sticker NG [SELLER] na pinaka una hahahahaha sayang namarn,OTHER_OR_NO_REPLY,Filipino,,A01
+C056,Bikeskin boss may discount din ba?✌️🤣,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C057,[NAME] [NAME] tara sabay ako sainyo,OTHER_OR_NO_REPLY,Filipino,,A01
+C058,Yung bike ko punong puno ng sticker ng [SELLER] 😍😍,OTHER_OR_NO_REPLY,Filipino,,A01
+C059,Sana my branch kau sa laguna,OTHER_OR_NO_REPLY,Taglish,,A01
+C060,Padala ko bike ko,PURCHASE_INTENT,Filipino,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C061,Magkno pa bike skin,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C062,Pano magkaroon ng sticker?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C063,Hanggang kailan yan boss !,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C064,"Open po ba till 7 PM onwards?
+6:30PM pa po kasi out ko sa work",SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C065,Happy anniv boss,OTHER_OR_NO_REPLY,English,,A01
+C066,Nag pm ako sa page nyo,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C067,Happy anniversary!👌,OTHER_OR_NO_REPLY,English,,A01
+C068,Congrats [SELLER],OTHER_OR_NO_REPLY,English,,A01
+C069,Congrats Team [SELLER]! ❤,OTHER_OR_NO_REPLY,English,,A01
+C070,God Bless...,OTHER_OR_NO_REPLY,English,,A01
+C071,"Tama yan huwag kayo magsara, gawa gawa nalang ng mga kawatan sa gobyerno tong ecq na ito...👎👎",OTHER_OR_NO_REPLY,Filipino,,A01
+C072,"Mura na nga yung 50 sa tono tapos 170 sa bike spa.. Sa iba nga mas mahal pa,e",OTHER_OR_NO_REPLY,Filipino,,A01
+C073,Ok naman..maganda pagkatono ng bike ko kanina..at na repak ang BB ko kahit loose thread na...mainam yung Payat na maputing matangkad ayos master..kuddos..babalik ako para sa iba pang serbisyo🙏👍,OTHER_OR_NO_REPLY,Taglish,,A01
+C074,"Agree, never mong mararamdaman na iba ka pag nandito ka. Sobrang hospitable and kahit unang beses mo palang magpagawa parang tropa mo n sila pagkatapos. Kung namamahalan sa patono mag aral, kung namamahalan sa paglinis mag invest sa paglinis. Kaya sila nandyan is for our own convenience lalo n pag gahol sa oras or di tlga ma maintain ng maayos bike natin. Salute sa [SELLER] bikeshop. Tuloy tuloy lang po s magandang serbisyo",OTHER_OR_NO_REPLY,Taglish,,A01
+C075,Kabuhayan din po yan ng mga mekaniko sana mas maging marespeto tayo kung un naman ang singil wag na baratin pwede naman magtanong muna kung namamahalan pwede naman balikan o lumipat kung may alam na mas mura,OTHER_OR_NO_REPLY,Filipino,,A01
+C076,Kagagaling ko lang po jan kanina services are very good linis lahat ng libag ng bike tapos yung mga nagtratrabaho diyan d ka mahihiya sobrang babait,OTHER_OR_NO_REPLY,Taglish,,A01
+C077,"Nung una, parang mahal sa P170 ung Bike Spa, pero pinanood ko, langya ang hirap pala ng ginagawa, tapos pulido pa gumawa. Hehehe",OTHER_OR_NO_REPLY,Filipino,,A01
+C078,"Wala akong alam sa paglilinis at pag ayos ng bike, parang gusto ko dalhin bike ko dito",PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C079,The best itong [SELLER]. Matitino at magagaling ang support at mekaniko at pulido lagi ang trabaho. Malaki ang tiwala ko sa kanila at sa maintenance ng bike ko kapag wala akong oras na gawin ko ng sarili ko.,OTHER_OR_NO_REPLY,Taglish,,A01
+C080,Magkano po pa Bike Wash and Tono?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C081,madali pala ang magtono sana sya na lanh ang nagtono ng bike nya.. heheheh,OTHER_OR_NO_REPLY,Filipino,,A01
+C082,Sobrang laki ng tiwala ko dito sa mga staff. Good job boys,OTHER_OR_NO_REPLY,Taglish,,A01
+C083,I love [SELLER] padin. . . Wala SA PRESYO Yan eh. NSA MGA taong nagawa at iniingat Ang bikes pag ginagawa.... 🥰,OTHER_OR_NO_REPLY,Taglish,,A01
+C084,"50 bike spa sa nagrereklamo, pero self service. Hahahaha",OTHER_OR_NO_REPLY,Taglish,,A01
+C085,Anung oras po kau Ng sasara boss,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A01
+C086,Sana sa antipolo din meron,OTHER_OR_NO_REPLY,Filipino,,A01
+C087,Ano mga ginagawa sa bike spa..thanks,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C088,"wag na magpa bike shop kung ganyan mindset.. haha! bili ka sarili mong tools para ikaw na mismo gumawa at maglinis ng sarili mong bike, yun e kung kaya mo 😂",OTHER_OR_NO_REPLY,Taglish,,A01
+C089,ang isa dyan dumdlo ng gwain ni Lord. sya nagaayos ng sound pag di ok kpg may gwain sa Lord at iba pang dpt ayusin..mbuting tao .mbuting mkisama at di mukhng pera. kya mgttgumpybyang [SELLER] n yan...sa help ni God..pgplain kyo ng Diyos at lagi ingtn..,OTHER_OR_NO_REPLY,Taglish,,A01
+C090,"Hindi naman sa dali yan ng ginagawa nila eh experienced, professionalism and the knowledge we are paying here",OTHER_OR_NO_REPLY,Taglish,,A01
+C091,Ako mismo dumadayo pa para jan,OTHER_OR_NO_REPLY,Filipino,,A01
+C092,Sulit na sulit ang bayad nyo dyan mga ka padyak.,OTHER_OR_NO_REPLY,Filipino,,A01
+C093,"Tropa mo nagtono = unreliable shift which may cause stress sa chain mo
+Sa [SELLER] lang ako nagpapatono kasi ang ayos ng tono lagi",OTHER_OR_NO_REPLY,Filipino,,A01
+C094,nag rerepack po ba kayo ng hub?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A01
+C095,Up 🙌,OTHER_OR_NO_REPLY,English,,A01
+C096,Sir mag kno pa repack ng BB,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C097,Tumpak!👍,OTHER_OR_NO_REPLY,Filipino,,A01
+C098,Yung 550 ata un na bike spa + overhaul ? May additional charges paba un,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A01
+C099,Wala akong knowledge ng bike stuff but these boys gave me enough information on it and I trust them and their process. 🙂,OTHER_OR_NO_REPLY,Taglish,,A01
+C100,Just a review,OTHER_OR_NO_REPLY,English,,A01
+C101,d naman mahal magpresyo si [SELLER]... sakto nga lang eh plus de kalidad serbisyo,OTHER_OR_NO_REPLY,Taglish,,A01
+C102,Up po dito. Parang gusto ko magpalinis ng bike dito,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A01
+C103,good pm mga boss...may available po ba kayung hose para sa hydraulic brake?,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A01
+C104,Sir ano avail ninyo na airfork😊,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A01
+C105,Pahingeee lahat😅,OTHER_OR_NO_REPLY,Filipino,,A01
+C106,Pakireplayan naman po ang inquiry ko. Thank you po.,OTHER_OR_NO_REPLY,Taglish,,A01
+C107,Sanaol po,OTHER_OR_NO_REPLY,Filipino,,A02
+C108,Hm medium frame sir?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C109,Hm po sa Large frame?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C110,Sir magkano po sa frame,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C111,penge nmn lods kahit bulok na po,OTHER_OR_NO_REPLY,Filipino,,A02
+C112,Location po..,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A02
+C113,Thank you Boss!😊,OTHER_OR_NO_REPLY,English,,A02
+C114,Good job boys,OTHER_OR_NO_REPLY,English,,A02
+C115,Available pa po ba...,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A02
+C116,Magkanu po size 26er,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C117,"27.5, 1500 each po ba?",PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C118,How much po sa 27.5m,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C119,Magkanu po ganyan po,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C120,Sipag talaga ng mga boys ng [SELLER] maaasahan 👍,OTHER_OR_NO_REPLY,Filipino,,A02
+C121,How much po home service ng bike wash 2 bikes sa Ugong Pasig?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C122,Available pa din po ba sa shop niyo Ang walk in bike spa + regreased po ba tawag dun..,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A02
+C123,Hm po isa lang po bike ko marikina area?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C124,Ano2x services offered nyo sir?,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A02
+C125,Boss may sealant kayo ng tubeless?,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A02
+C126,Hm boss?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C127,Pm nyo po ako sir. Pag usapan po natin isa lang kasi bike ko.😊,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A02
+C128,How much each bike,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C129,Hm po? Cainta po.,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C130,a home service nalang tayo. Sa bahay namin.,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A02
+C131,How much taguig,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C132,How po ang hm po,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C133,Mag kano po pa bike skin?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C134,Magkanu po magpalagay ng ganyan po,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C135,Hm po magpalagay ng bike skin frame and fork 29er po .salamat.,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C136,Magkano po?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C137,magkano po magpalagay,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C138,BOSS magkano kaya yan?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C139,Mag kano po?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C140,Hm bike spa taytay loc?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C141,Hm po home service?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C142,Hm po pa bike spa? Home service,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C143,Magkano po home service bike spa,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C144,How to order? Shipping?,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A02
+C145,Gaano katagal po maginstall?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A02
+C146,Boss HM po sa 29er?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C147,Magkano 26r,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C148,Magkano Poh?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C149,Hm po mountain peak vulcan 27.5?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C150,Hm po pm,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C151,Hm lo yan?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C152,Ano po max tire na pasok dito? 30c?,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A02
+C153,Anong size po yan,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A02
+C154,Hm upgrade kit 10s?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C155,Hm po Adaptor and stem oversized?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C156,boss nagrerepaint din ba kayo ng frame?,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A02
+C157,HM po hubs cassette type?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C158,Mountain peak vulcan 27.5 large mayron po ba kau?thanks,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A02
+C159,Hm po sa zoom hydr brake?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C160,Magkano po gulong ? Dalawa,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C161,Magkano po shades at hb?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C162,Magkano po MTPeak na frame?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C163,Ano ang address nyo boss?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A02
+C164,may mga fork kayo?,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A02
+C165,Hm po hubs nyo with 32holes? Saka skinwall tire 26er?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C166,BAKA MAY SEAT POST KAYO DYAN SIZE 28 GET KONA AGAD,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A02
+C167,location nyo sir,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A02
+C168,Location niyo sir,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A02
+C169,Loc?,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A02
+C170,hm ?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C171,Thank you po!!,OTHER_OR_NO_REPLY,Taglish,,A02
+C172,How much po?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
+C173,HM Bossing?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C174,HM US8 men?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C175,Hm US 11?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C176,Size 12men hm?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C177,Hm size 10.5?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C178,HM size 8mens,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C179,How much,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C180,Hm size 10,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C181,size US10.5 mens po available?,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A03
+C182,available size 11?,PRODUCT_AVAILABILITY,English,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A03
+C183,Hm US 7 WOMENS,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C184,Size??,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C185,Hm size 11?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C186,How much po,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C187,Hm size 7 us men's?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C188,Hm,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C189,Hm po size 9m,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C190,Hm us11?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C191,Hm po size 9?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C192,Hm 9.5mens,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C193,Hm po size 9,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C194,How.much po size 42,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C195,How much?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C196,Hm size 9.5,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C197,Orig? Hm?,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C198,Hm 42size?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C199,Hm boss,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C200,Hm size 10,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C201,Hm size 11?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C202,hm 27.5cm,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C203,Hm size 45,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C204,Hm po?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C205,Hm po ganyan i want,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C206,Legit and Hm?,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C207,Mgkano po yung set?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C208,hm? pati ano pa ibang meron?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C209,How much 20ml?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C210,Hm and ilan ml?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C211,refillable po?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C212,How much?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C213,Hm po ganito?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C214,HM ganyan boss,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C215,Hm set?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C216,Gusto ko yan hm,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C217,Ang lupit biglang nagka nunal sa baba,OTHER_OR_NO_REPLY,Filipino,,A03
+C218,"Dapat Ang results is like sa start Ng video na naka lapit Ang muka, naka zoom in dapat.",OTHER_OR_NO_REPLY,Taglish,,A03
+C219,Mgknu po pr session ?,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C220,Hm?,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C221,Kaso kapag katagalan bumabalik din sa dati,OTHER_OR_NO_REPLY,Filipino,,A03
+C222,"Yung result bakit naka layo na Ang face nya, thenay filter",OTHER_OR_NO_REPLY,Filipino,,A03
+C223,Haha d ganun ka dali dami mopa maubos pera jan bago kuminis mga 1year treatment,OTHER_OR_NO_REPLY,Filipino,,A03
+C224,I am interested,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C225,This deal sounds perfect for a quick getaway! When's the best time to go?,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C226,details thank you,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C227,Details and inclusion,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C228,Details po thank you,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C229,Please send me details. Thank you.,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C230,Itinerary please thank you,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C231,pa send details pls. thank you,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C232,More details please,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C233,This is affordable!,OTHER_OR_NO_REPLY,English,,A03
+C234,Legit ba to,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C235,more details please and thank you,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C236,Details thank you,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C237,Details please,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C238,details pls tnx.. interested,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C239,Details pls and thank you so much,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C240,"try j2cr cbe, used 3 times, bought less than a month ago",PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C241,Loco 2 elongated plus 3k cash,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C242,Rpm q2 +cash,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C243,Coral Pro Widebody? Isang beses palang nagamit. Last Friday,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C244,Swap?,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C245,J2cr standard + cash,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C246,Saan po sa rizal?,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C247,Pm nyo po ako sir,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C248,Up,OTHER_OR_NO_REPLY,English,,A03
+C249,Fix po ang moi(weight tune) nya noh?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C250,Saan po purchase. May receipt pa po?,PRODUCT_INFORMATION,Filipino,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C251,Dito yan phils?,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C252,Still available?,PRODUCT_AVAILABILITY,English,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A03
+C253,How much??,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C254,Kano po Yan,PRICE_INQUIRY,Filipino,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C255,PTPA i have po 15k plus shipping,OTHER_OR_NO_REPLY,Taglish,,A03
+C256,"PHP 17,000
+CHAMOY RINGS NOT INCLUDED SINCE BNB DIDN'T SHIP IT TO CALI.",OTHER_OR_NO_REPLY,English,,A03
+C257,"Meron po ako Available on hand @highlight
+Tarlac and Pampanga area",OTHER_OR_NO_REPLY,Taglish,,A03
+C258,🎁 FEW BOXES LEFT! 🎁,OTHER_OR_NO_REPLY,English,,A03
+C259,Pm niyo po ako,OTHER_OR_NO_REPLY,Taglish,,A03
+C260,We have po,OTHER_OR_NO_REPLY,Filipino,,A03
+C261,Mron ako,OTHER_OR_NO_REPLY,Filipino,,A03
+C262,Loc mo,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C263,Hm pag mag resell,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C264,baka po may gustong bumili nang pork tumbong 135 po isa dalawa ang inorder hnd kinuha kahit free del na lng pp,OTHER_OR_NO_REPLY,Taglish,,A03
+C265,HELLO PO! BAKA MERON PO DITO GUMAGAMIT NG BIGAS JASMINE DENORADO YELLOW SACK. BENTA NALANG PO NAMIN NG 1K. NABAWASAN LANG PO NG 6CUPS. SALAMAT PO! 😊,OTHER_OR_NO_REPLY,Filipino,,A03
+C266,LF lomi.,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C267,75 per tub !!!!,OTHER_OR_NO_REPLY,English,,A03
+C268,"BAKED SUSHIIIII!!!
+Available pa po",OTHER_OR_NO_REPLY,Taglish,,A03
+C269,"minumum 3 orders
+free delivery around mandaluyong",OTHER_OR_NO_REPLY,English,,A03
+C270,Open napo kami order kalang dito SIPS TERET,OTHER_OR_NO_REPLY,Taglish,,A03
+C271,Looking for burgers .,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C272,NO RUSH ORDERS,OTHER_OR_NO_REPLY,English,,A03
+C273,Maraming Salamat po sa mga Suki namin at sa mga bagong Customers,OTHER_OR_NO_REPLY,Taglish,,A03
+C274,Maraming Salamat po sa Solid niyong Suporta lalo na sa mga Suki namin dito,OTHER_OR_NO_REPLY,Filipino,,A03
+C275,"Thank you so much! 🥹❤️ Sobrang thankful kami na napabilang ang R&C Signature silog dito. Kahit bago pa lang kami, nakakatuwa na agad kaming nakakatanggap ng maraming good feedback from our customers. 🫶🏻
+Maraming salamat sa lahat ng patuloy na sumusuporta at nagtitiwala",OTHER_OR_NO_REPLY,Taglish,,A03
+C276,AKO LANG PWEDE MAG ADD NGANIIIIII 🙄🙄🙄 iaadd ko naman yan if may nag suggest,OTHER_OR_NO_REPLY,Filipino,,A03
+C277,Yes Papa pinaka the best! Lalo na lechon kawali,OTHER_OR_NO_REPLY,Taglish,,A03
+C278,paano pala kundi ayon sa panlasa mo admin. ang majority like sa poll?,OTHER_OR_NO_REPLY,Filipino,,A03
+C279,"Bukod sa Frankie’s Saan kayo umoorder ng Chicken Wings na Homemade yung Sauce, like totoong butter yung gamit?",OTHER_OR_NO_REPLY,Filipino,,A03
+C280,Looking for burger,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C281,Do you accept GCASH?,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C282,Free Consultation?,PRODUCT_INFORMATION,English,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C283,Hm po? Available pa?,PRICE_INQUIRY,Taglish,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A03
+C284,May available pa po ba,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A03
+C285,Details po please,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C286,Pm po,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C287,Available pa po ba,PRODUCT_AVAILABILITY,Taglish,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A03
+C288,swap po?,PURCHASE_INTENT,Taglish,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C289,May stock pa po,PRODUCT_AVAILABILITY,Filipino,Hi po! [ITEM] is [AVAILABLE / OUT OF STOCK] as of today. Reply lang po kung gusto niyo mag-reserve.,A03
+C290,May ibang color?,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C291,Paano po umorder?,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C292,Details po,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A03
+C293,interested po,PURCHASE_INTENT,Filipino,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C294,PM sent,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C295,loc po?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C296,Mine po,PURCHASE_INTENT,Filipino,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C297,mine available,PURCHASE_INTENT,English,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C298,Pa-reserve po,PURCHASE_INTENT,Filipino,"Hi po! Salamat sa order. Please send your name, contact number, and delivery address.",A03
+C299,How to order po,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C300,COD available,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C301,may COD po ba?,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C302,Feedback po ng buyer,OTHER_OR_NO_REPLY,Filipino,,A03
+C303,Sold items na po,OTHER_OR_NO_REPLY,Filipino,,A03
+C304,On hand items po,OTHER_OR_NO_REPLY,Taglish,,A03
+C305,How much po yung shipping fee?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C306,May delivery po?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C307,kailan po shipping?,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C308,Pwede meet up?,SHIPPING_INQUIRY,English,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C309,Outside Metro Manila lang po ba?,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C310,May LBC po?,SHIPPING_INQUIRY,Filipino,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C311,J&T delivery lang po,SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A03
+C312,Free shipping pa naman,OTHER_OR_NO_REPLY,Taglish,,A03
+C313,"What is INTRA and how does it work?, Mag kano po",PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A02
+C314,"Hello po, panu po mag order pa member kai intra, how much intra juice",SHIPPING_INQUIRY,Taglish,"Hi po! We are located at [ADDRESS], open [HOURS]. We deliver to [COVERAGE AREA].",A02
+C315,pwede ba sa poor blood circulation manhid Ang paa at binti,PRODUCT_INFORMATION,Taglish,Hi po! Here are the details: [PRODUCT DETAILS]. May iba pa po ba kayong tanong?,A02
+C316,Hm,PRICE_INQUIRY,English,Hi po! Salamat sa inquiry. Here is our price list: [PRICE LIST]. Ano pong item or size ang gusto niyo?,A02
